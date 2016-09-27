@@ -16,5 +16,9 @@ public class FaceMatch {
 		return matches;
 		
 	}
+	
+	public void doSomething(){
+		
+	}
 
 }
