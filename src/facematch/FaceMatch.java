@@ -9,16 +9,18 @@ public class FaceMatch {
 	}
 	
 	private static Match[] returnRandomMatches(){
-		Match[] matches = new Match[1];
+		Match[] matches = new Match[2];
 		
 		matches[0] = new Match();
+		matches[1] = new Match();
 		
 		return matches;
 		
 	}
 	
+
 	public void doSomething(){
-		
+	
 	}
 
 }
