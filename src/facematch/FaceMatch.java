@@ -6,7 +6,5 @@ public class FaceMatch {
 		// TODO Auto-generated method stub
 
 	}
-	
-	
 
 }
